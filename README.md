@@ -1,9 +1,13 @@
 
 **This is a test app, there is no validation of usernames, invalid answers, etc..**
 
-**Start the client and type a unique username everytime**
+## Instructions:
 
-**Answer a valid answer in the responses (1, 2, 3 or 4)**
+1. Start the API server. Make sure the port is open
+
+2. Start the client and type a unique username everytime
+
+3. Answer a valid answer in the responses (1, 2, 3 or 4)
 
 
 **Build**
